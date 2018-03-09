@@ -1,5 +1,6 @@
 ## WiDS Datathon
 _____
+<img src="./img/wids-logo.jpg">
 
 This is my python solution for the WiDS Datathon, which is a new feature of the WiDS conference 2018. You can read about the datathon [Here](http://www.widsconference.org/datathon.html). This competition is launched by [kaggle](https://www.kaggle.com/c/wids2018datathon).
 
