@@ -16,13 +16,13 @@ This is my python solution for the WiDS Datathon, which is a new feature of the 
 
  
 
-The dataset includes demographic and behavioral information from a sample of survey from India, related to their usage of financial services. The goal of this project is to predict gender, exploring the key differences in behavior patterns between men and women. By doing so, this competition seeks to encourage female data scientists to engage in social impact solutions and to help the poor people. Especially, InterMedia, where provide the dataset, seeks to help the world's poorest people take advantage of mobile phones/digital technoglogy to participate fully in their local economies.
+The dataset includes demographic and behavioral information from a sample of a survey conducted in India related to people's  usage of financial services. The goal of this project is to predict gender, exploring the key differences in behavior patterns between men and women. By doing so, this competition seeks to encourage female data scientists to engage in social impact solutions and to help understand differences in financial engagement by gender. InterMedia, which provided the dataset, seeks to help the world's poorest people take advantage of mobile phones/digital technoglogy to participate fully in their local economies.
 
  
 
 ### Data
 
-** I only uploade WiDS data dictionary v2.xlsx due to limitation of file size. You can download the input files via [kaggle](https://www.kaggle.com/c/wids2018datathon).
+** I only uploade WiDS data dictionary v2.xlsx due to file size limitations. You can download the input files via [kaggle](https://www.kaggle.com/c/wids2018datathon).
 
 - train.csv : training data (18255 rows, 1235 columns)
 
@@ -58,6 +58,6 @@ To verify your installation, try to import xgboost in Python:
 
 - final_code.ipynb : Jupyter Notebook file for modeling
 
-- data_exploration.pdf : this file has plots of most of features (~810) except the features with primarily NaN values. The y-axis gives the average "is_female" values for each answer for each feature.
+- data_exploration.pdf : this file has plots of most of features (~810) except for the features with primarily NaN values. The y-axis gives the average "is_female" values for each survey answer for each feature.
 
  
